@@ -17,6 +17,6 @@ Directions:
 
 Modifiers:
 
-- (nothing)
+-   (Normal)
 - ' (Reverse)
 - 2 (Two times)
